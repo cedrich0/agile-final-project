@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: User story of Stakeholder Requirement
 about: This template is for creating user stories
 title: ''
 labels: ''
